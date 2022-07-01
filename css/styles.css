@@ -1,0 +1,19 @@
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 50vh;
+}
+.colorbtn{
+  padding: 0.25rem 0.5rem;
+  outline: none;
+  border: none;
+  border-radius: 9px;
+  color:#242F9B;
+  background:#C4DDFF;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+.colorbtn:hover{
+  background: #9BA3EB;
+}
